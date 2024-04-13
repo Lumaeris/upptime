@@ -7,6 +7,8 @@ sites:
     url: https://lumaeris.com
   - name: GoToSocial
     url: https://gts.lumaeris.com
+  - name: Matrix Server
+    url: https://lumaeris.me/_matrix/client/versions
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
