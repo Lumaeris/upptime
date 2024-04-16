@@ -4,19 +4,19 @@
     "url": "https://lumaeris.com",
     "icon": "https://icons.duckduckgo.com/ip3/lumaeris.com.ico",
     "slug": "lumaeris-com-codeberg-pages",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3343,
-    "timeDay": 753,
-    "timeWeek": 3343,
-    "timeMonth": 3343,
-    "timeYear": 3343,
+    "status": "up",
+    "uptime": "99.29%",
+    "uptimeDay": "97.84%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "99.29%",
+    "uptimeYear": "99.29%",
+    "time": 3041,
+    "timeDay": 708,
+    "timeWeek": 3041,
+    "timeMonth": 3041,
+    "timeYear": 3041,
     "dailyMinutesDown": {
-      "2024-04-16": 0
+      "2024-04-16": 31
     }
   },
   {
