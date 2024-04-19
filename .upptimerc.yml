@@ -6,7 +6,7 @@ sites:
   - name: lumaeris.com (Codeberg Pages)
     url: https://lumaeris.com
   - name: GoToSocial
-    url: https://gts.lumaeris.com
+    url: https://gts.lumaeris.com/about
   - name: Matrix Server
     url: https://lumaeris.me/_matrix/client/versions
 
