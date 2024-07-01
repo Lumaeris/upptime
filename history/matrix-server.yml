@@ -1,7 +1,7 @@
 url: https://lumaeris.me/_matrix/client/versions
-status: down
-code: 404
-responseTime: 606
-lastUpdated: 2024-06-30T23:12:47.224Z
+status: up
+code: 200
+responseTime: 302
+lastUpdated: 2024-07-01T11:16:39.354Z
 startTime: 2024-04-13T18:33:57.990Z
 generator: Upptime <https://github.com/upptime/upptime>
